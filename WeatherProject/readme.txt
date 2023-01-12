@@ -1,0 +1,1 @@
+A nodejs weather app using an API from OpenWeather
